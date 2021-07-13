@@ -1,4 +1,4 @@
-def solution(s):
+def solution(s):  # the one that I submitted on Invitation #A1
     return ''.join('000001' + braille[c.lower()] if c.isupper() else braille[c] for c in s)
 
 
@@ -42,7 +42,7 @@ def solution_tuple(word):
     return answer
 
 
-def solution_index(word):
+def solution_index(word):  # the one that I submitted on Invitation #B1 after changing the name of the function/variable
     answer = ''
     for c in word:
         if c == ' ':
