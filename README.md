@@ -19,13 +19,13 @@ I recently heard about Google's [foobar challenge](https://foobar.withgoogle.com
 
 ## Levels
 There are 5 levels and each level gives you a different number of challenges (which are randomly selected from a question bank), time limits, and perks when you finished the level. In order to progress to the next level, you need to submit solution(s) for every challenge it throws at you, and your solution must pass the blind unit tester provided by Google.
-|      Level      | # of Challenges | Time to Solve / C |             Perk             |
-| :-------------: | :-------------: | :---------------: | :--------------------------: |
-|     Level 1     |        1        |     168 hours     |             None             |
-|     Level 2     |        2        |     168 hours     | 1 single-use invitation code |
-|     Level 3     |        3        |     168 hours     |     Google recruit survey    |
-|     Level 4     |        2        |     360 hours     | 2 single-use invitation code |
-|     Level 5     |        1        |     528 hours     |                              |
+|      Level      | # of Challenges | Time to Solve / C |              Perk              |
+| :-------------: | :-------------: | :---------------: | :----------------------------: |
+|     Level 1     |        1        |     168 hours     |              None              |
+|     Level 2     |        2        |     168 hours     | 1 x single-use invitation code |
+|     Level 3     |        3        |     168 hours     |      Google recruit survey     |
+|     Level 4     |        2        |     360 hours     | 2 x single-use invitation code |
+|     Level 5     |        1        |     528 hours     |                                |
 
 ## Environments
 Initially, I thought the invitation only appears to someone who uses Chrome and/or logged into their Google accounts, because I didn't get the invitation when I tried those search terms without signing into my accounts, even though I did it on many browsers<sup>[1](#fn1)</sup> and platforms<sup>[2](#fn2)</sup> (1-2 times each). But [Invitation #B1](#invitation-b1-july-11-2021) changed everything. You *can* sign into your Google accounts on Level 1, and you're *required* to sign in for Level 2 problems, but no Google account (or specific browsers, etc) is required to get an invitation.
